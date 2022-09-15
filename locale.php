@@ -110,6 +110,9 @@ function set_lang($language)
         'fr' => 'fr_FR',
         'it' => 'it_IT',
         'nl' => 'nl_NL',
+        'de' => 'de_CH',
+        'fr' => 'fr_CH',
+        'it' => 'it_CH',
         'en' => 'en_GB'
     );
 
